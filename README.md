@@ -1,2 +1,1 @@
-# supply-missions
-package
+# SupplyMission
